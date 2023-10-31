@@ -1,3 +1,6 @@
+
+#nullable enable
+
 namespace MvcApiCall.Models;
 
 public class ErrorViewModel
